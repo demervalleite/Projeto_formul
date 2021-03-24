@@ -1,0 +1,118 @@
+body{
+    background: red;
+    background: linear-gradient(rgb(189, 83, 83),rgb(196, 196, 105));
+    background: -moz-linear-gradient(rgb(199, 83, 83),rgb(190, 190, 102));
+    background: -o-linear-gradient(rgb(199, 83, 83),rgb(190, 190, 102));
+    
+}
+body{
+    width:1200px;
+    height: 890px;
+
+}
+
+.topo{
+    margin-left: 515px;
+    padding-top:37px;
+    font-size: 30px;
+    color: #070404;
+    
+} 
+header{
+    height: 100px;
+}
+
+.container{
+    margin-left: 18%;
+    width: 850px;
+    height: 700px;
+    background-color: #ffffffb0;  
+    border-radius: 20px /* Arredonda as bordas da div*/
+  
+}
+img{
+    width: 135px;
+    height: 120px;
+    margin-left: 345px;
+    padding-top: 10px;
+    border-radius: 20px
+}
+form{
+    display: flex;
+    padding-left: 20px;
+    padding-top: 30px;
+    font-weight: bold;
+}
+.form_nome, .form_sx, .form_rg, .form_pai, .form_nac, .form_tel, .form_mail{
+    padding-top: 15px;
+
+}
+.formulario_dir{
+    margin-left: 35px;
+    width: 350PX;
+    height: 396PX;
+   
+
+}
+
+.bar_form{
+    width: 1px;
+    height: 350px;
+    background-color: #a17070;
+    margin-top: 10px;
+   
+      
+}
+
+.formulario_esq{
+    margin-left: 60px;
+    width: 330PX;
+    height: 396PX;
+    
+}
+
+input[ type="radio" i]{
+    width: 30px;                /* colocar colchetes possibilita manipular input especifico*/
+    height: 13px;
+
+}
+
+input{
+    width: 280px;
+}
+
+button{
+    width: 70px;
+    height: 25px;
+    display: block;
+    margin-top: 40px;
+    margin-left: 120px;
+
+}
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
